@@ -1,0 +1,18 @@
+# COMP3311 23T1 Final Exam
+# Q8: Relational Algebra
+
+A. select given,family from Customers ...
+
+### Replace this line by your relational algebra ###
+
+
+
+B. select a.id,a.balance from Accounts join ...
+
+### Replace this line by your relational algebra ###
+
+
+
+C. select c.given, c.family, t.source, t.amount ...
+
+### Replace this line by your relational algebra ###

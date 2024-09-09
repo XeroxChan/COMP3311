@@ -1,0 +1,12 @@
+# COMP3311 23T1 Final Exam
+# Q7: Triggers
+
+create function txChecker() returns trigger
+as $$
+-- Replace this line by your trigger function definition
+$$ plpgsql;
+
+create function txUpdater() returns trigger
+as $$
+-- Replace this line by your trigger function definition
+$$ plpgsql;

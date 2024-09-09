@@ -1,0 +1,11 @@
+# COMP3311 23T1 Final Exam
+# Q6: ER -> Relational Mapping
+
+(a) ER mapping
+
+### Replace this line by your SQL schema ###
+
+
+(b) Single-table mapping
+
+### Replace this line by your SQL schema ###

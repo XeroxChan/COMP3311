@@ -1,0 +1,25 @@
+# COMP3311 23T1 Final Exam
+# Q9: Transactions
+
+A.
+
+(i) conflict serializable? (show working)
+
+
+(ii) view serializable? (show working)
+
+
+B.
+
+(i) conflict serializable? (show working)
+
+
+(ii) view serializable? (show working)
+
+
+C.
+
+(i) conflict serializable? (show working)
+
+
+(ii) view serializable? (show working)
